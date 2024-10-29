@@ -230,5 +230,6 @@ These insights can help the pizza restaurant make informed decisions regarding m
 We recommend implementing targeted marketing campaigns focused on the most popular pizza types and sizes, as well as considering promotions during peak ordering hours to enhance customer engagement and sales.
 
 ### References
-- [SQL Documentation](https://www.sql.org/)
-- [Data Analysis Techniques](https://towardsdatascience.com/data-analysis-techniques)
+- [Pizza Hut Database](https://github.com/shaikhrnafees/Pizza_Hut_SQL_Analysis/blob/main/sqlite.db)
+- [SQL Query Report](https://github.com/shaikhrnafees/Pizza_Hut_SQL_Analysis/blob/main/SQLite.15.sql)
+
